@@ -1,0 +1,4 @@
+name: VantaAutoKick
+version: '${project.version}'
+main: xyz.raitaki.VantaAutoKick.Main
+api-version: 1.16
